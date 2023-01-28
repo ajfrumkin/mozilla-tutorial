@@ -37,6 +37,6 @@ h1 {
 
 img {
   display: block;
-  height: 600px;
+  height: auto;
   width:auto;
 }
